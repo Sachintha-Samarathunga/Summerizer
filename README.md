@@ -1,8 +1,16 @@
-# React + Vite
+# ⭕ Webpage Summarizer ⭕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## using,
 
-Currently, two official plugins are available:
+##  📌React Js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  📌Vite Js
+
+##  📌Redux Js
+
+##  📌Tailwind CSS
+
+##  📌OpenAI
+
+
+![Screenshot 2023-08-12 162624](https://github.com/Sachintha-Samarathunga/Summerizer/assets/98406068/8e327729-8a97-42d2-8bb4-8f2e7fd3740d)
