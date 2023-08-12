@@ -1,6 +1,6 @@
 # ⭕ Webpage Summarizer ⭕
 
-## using React Js,Vite Js,Redux,Tailwind CSS and OpenAI
+## Using React Js/ Vite Js/ Redux/ Tailwind CSS & OpenAI
 
 See how it works 😍
 
