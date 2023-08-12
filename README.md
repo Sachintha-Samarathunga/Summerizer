@@ -1,4 +1,4 @@
-# ⭕ Webpage Summarizer ⭕
+# Article Summarizer 
 
 ## Using React Js/ Vite Js/ Redux/ Tailwind CSS & OpenAI
 
